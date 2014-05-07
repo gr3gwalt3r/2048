@@ -405,17 +405,17 @@ hr {
     font-size: 16px; 
     color: #354b59;}
   .tile.tile-2 .tile-inner {
-    background: url('../tile-sets/udacity/2.png');
+    background: url('http://assets.minecraftgallery.com/wp-content/uploads/2012/09/herobrine-minecraft-skin.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url('../tile-sets/udacity/4.png');
+    background: url('http://img4.wikia.nocookie.net/__cb20140317140110/vsbattles/images/f/f3/Steve.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: url('../tile-sets/udacity/8.png');
+    background: url('http://gamesloveres.com/wp-content/uploads/2014/04/notch-minecraft-skin-facescreen-shot-2010-12-14-at-335-lk8hk3tl.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-weight: medium;
